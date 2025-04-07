@@ -1,1 +1,2 @@
 This is a version control project for WGU course D197.
+This file will track changes over time.
