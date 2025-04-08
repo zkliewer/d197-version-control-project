@@ -1,3 +1,4 @@
 # d197-version-control-project
-Branch: main
-This edit is made on the main branch to cause a merge conflict.
+
+Branch: main & feature-test  
+This file contains edits from both branches for D197 merge conflict testing.
