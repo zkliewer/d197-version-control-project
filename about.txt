@@ -1,7 +1,1 @@
-This is a version control project for WGU course D197.
-This file will track changes over time.
-
-This file was edited as part of the D197 Version Control project.
-Author: zkliewer
-Date: April 7, 2025
-
+This is my D197 version control project.
