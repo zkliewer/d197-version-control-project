@@ -1,0 +1,7 @@
+How the merge conflict was resolved:
+I created a conflict by editing the same line of README.md on both the main and feature-test branches. When I attempted to merge the branches, Git flagged the conflict. I resolved the conflict by manually editing the file to include a combined version of both edits. After reviewing the changes, I staged and committed the resolved file to complete the merge.
+
+Three changes I made:
+1. Created and edited about.txt with project details for D197.
+2. Created a new branch (feature-test) and edited README.md with a message specific to that branch.
+3. Introduced and resolved a merge conflict by editing the same file in both branches and finalizing the merge manually.

@@ -1,0 +1,42 @@
+commit 9c222a1c3a54371c7bf995d201f017c9bd4dcdc5
+Merge: 60bb68a 24df82d
+Author: Zachary Kliewer <zkliewer@users.noreply.github.com>
+Date:   Mon Apr 7 21:55:39 2025 -0700
+
+    Resolved merge conflict between main and feature-test
+
+commit 60bb68ae6a7c88d9f6f7e08c1047efa026000cfc
+Author: Zachary Kliewer <zkliewer@users.noreply.github.com>
+Date:   Mon Apr 7 21:49:18 2025 -0700
+
+    Conflicting change on main for merge conflict test
+
+commit 24df82d6487a1bcfdef72508876a41fa8b113eaf
+Author: Zachary Kliewer <zkliewer@users.noreply.github.com>
+Date:   Mon Apr 7 21:22:05 2025 -0700
+
+    Edit README.md on feature-test branch for D197
+
+commit 031c5cf1fdbc36c2a47588be323f910d8558b422
+Author: Zachary Kliewer <zkliewer@Zacharys-MacBook.local>
+Date:   Mon Apr 7 21:13:29 2025 -0700
+
+    Updated about.txt with project details
+
+commit a34d3c9360908dcd440e2a188d2f5363adbec121
+Author: Zachary Kliewer <zkliewer@Zacharys-MacBook.local>
+Date:   Mon Apr 7 16:21:31 2025 -0700
+
+    Add second line to about.txt for version history
+
+commit 94d2ec97e679f33b9b6df8db510d95dcef07abc9
+Author: Zachary Kliewer <zkliewer@Zacharys-MacBook.local>
+Date:   Mon Apr 7 15:52:32 2025 -0700
+
+    Add about.txt with project description
+
+commit 214f2d870624fab1d7f1d88acadfe2519c89ff85
+Author: zkliewer <54884122+zkliewer@users.noreply.github.com>
+Date:   Mon Apr 7 15:42:52 2025 -0700
+
+    Initial commit
